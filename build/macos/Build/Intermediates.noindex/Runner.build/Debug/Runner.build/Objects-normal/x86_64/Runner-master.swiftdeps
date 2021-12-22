@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1640138316, 978008985]
+build_end_time: [1640138326, 764106035]
+inputs:
+  "/Users/arioliveira/dev/fteam/pokedex/macos/Flutter/GeneratedPluginRegistrant.swift": [1640138284, 911348342]
+  "/Users/arioliveira/dev/fteam/pokedex/macos/Runner/AppDelegate.swift": [1634330199, 0]
+  "/Users/arioliveira/dev/fteam/pokedex/macos/Runner/MainFlutterWindow.swift": [1634330199, 0]
